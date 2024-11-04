@@ -1,16 +1,31 @@
-## Hi there 👋
+## About
 
-<!--
-**ErikZeiner/ErikZeiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying Computational linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/) and regularly work as a teaching assistant for various linguistic and programming courses.
 
-Here are some ideas to get you started:
+See my full [CV](#).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Example Project Portfolio
+
+**Web development**
+- [RoboLab (2024)](https://github.com/ErikZeiner/RoboLab-2024) - 
+- [Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - 
+
+**Python**
+- [Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) -
+  
+ **Java**
+- [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) -
+
+**R**
+- [R Workshop (2024)](https://github.com/ErikZeiner/R-Workshop-2024) -
+  
+**C\#**
+- [Boolean Algebra & Combinational Circuits (2020)](https://github.com/ErikZeiner/Boolean-Algebra-and-Combinational-Circuits-2020) -
+  
+**Kotlin**
+- [Tasker (2020)](https://github.com/ErikZeiner/Tasker-2020) -
+  
+## Teaching
+- [Pre-course (2023)](https://github.com/ErikZeiner/Pre-course-2023) - 
+- [Pre-course (2024)](https://github.com/ErikZeiner/Pre-course-2024) -
+  
