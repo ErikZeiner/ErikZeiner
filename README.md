@@ -6,26 +6,26 @@ See my full [CV](#).
 
 ## Example Project Portfolio
 
-**Web development**
-- [RoboLab (2024)](https://github.com/ErikZeiner/RoboLab-2024) - 
-- [Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - 
+**Web development**<br>
+[RoboLab (2024)](https://github.com/ErikZeiner/RoboLab-2024) - <br>
+[Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - 
 
-**Python**
-- [Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) -
+**Python**<br>
+[Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) -
   
- **Java**
-- [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) -
+ **Java**<br>
+ [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) -
 
 **R**
-- [R Workshop (2024)](https://github.com/ErikZeiner/R-Workshop-2024) -
+<br>[R Workshop (2024)](https://github.com/ErikZeiner/R-Workshop-2024) -
   
-**C\#**
-- [Boolean Algebra & Combinational Circuits (2020)](https://github.com/ErikZeiner/Boolean-Algebra-and-Combinational-Circuits-2020) -
+**C\#**<br>
+[Boolean Algebra & Combinational Circuits (2020)](https://github.com/ErikZeiner/Boolean-Algebra-and-Combinational-Circuits-2020) -
   
-**Kotlin**
-- [Tasker (2020)](https://github.com/ErikZeiner/Tasker-2020) -
+**Kotlin**<br>
+[Tasker (2020)](https://github.com/ErikZeiner/Tasker-2020) -
   
-## Teaching
-- [Pre-course (2023)](https://github.com/ErikZeiner/Pre-course-2023) - 
-- [Pre-course (2024)](https://github.com/ErikZeiner/Pre-course-2024) -
+## Teaching<br>
+[Pre-course (2023)](https://github.com/ErikZeiner/Pre-course-2023) - <br>
+[Pre-course (2024)](https://github.com/ErikZeiner/Pre-course-2024) -
   
