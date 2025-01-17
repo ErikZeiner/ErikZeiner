@@ -4,7 +4,7 @@ I am currently studying Computational Linguistics at the [University of Tübinge
 
 See my CV for more: [PDF]()
 
-## Example Project Portfolio
+## Project Portfolio
 
 **Web development**<br>
 [RoboLab (2024)](https://github.com/ErikZeiner/RoboLab-2024) - <br>
