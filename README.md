@@ -14,7 +14,7 @@ See my CV for more: [PDF]()
 [Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) -  (coming soon)
   
  **Java**<br>
- [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) - (coming soon)
+ [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) - GUI design for a Java app which allows for basic NLP analysis of text data
 
 
   
