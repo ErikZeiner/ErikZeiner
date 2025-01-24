@@ -11,7 +11,7 @@ See my CV for more: [PDF]()
 <br>[Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - (coming soon)
 
 **Python**<br>
-[Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) -  (coming soon)
+[Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) - (coming soon)
   
  **Java**<br>
  [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) - GUI design for a Java app which allows for basic NLP analysis of text data
@@ -22,7 +22,7 @@ See my CV for more: [PDF]()
 [Boolean Algebra & Combinational Circuits (2020)](https://github.com/ErikZeiner/Boolean-Algebra-and-Combinational-Circuits-2020) - (coming soon)
   
 **Kotlin**<br>
-[Tasker (2020)](https://github.com/ErikZeiner/Tasker-2020) - (coming soon)
+[Tasker (2020)](https://github.com/ErikZeiner/Tasker-2020) - Basic task manager for Android
   
 ## Teaching<br>
 Talks from an orientation event for new students at the Institute for Lingusitics<br>
