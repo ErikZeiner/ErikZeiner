@@ -11,7 +11,7 @@ See my CV for more: [PDF]()
 <br>[Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - (coming soon)
 
 **Python**<br>
-[Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) - (coming soon)
+[Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) - App which turns PDF highlights into Anki cards
   
  **Java**<br>
  [NLP-Analyser (2023)](https://github.com/ErikZeiner/NLP-Analyser-2023) - GUI design for a Java app which allows for basic NLP analysis of text data
