@@ -2,7 +2,7 @@
 
 I am currently studying Computational Linguistics at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/) and regularly work as a teaching assistant for various linguistic and programming courses.
 
-See my CV for more: [PDF]()
+See my CV for more: [PDF](zeiner_erik_cv.pdf)
 
 ## Project Portfolio
 
