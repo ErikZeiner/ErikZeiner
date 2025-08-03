@@ -7,7 +7,7 @@ _The number in parentheses indicates the year the project was completed._
 
 **Web development**<br>
 [RoboLab (2024)](https://github.com/ErikZeiner/RoboLab-2024) - A web-based app that introduces programming to students with the assistance of a LLM
-<br>[Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - A web-based app with a MySQL relational database, designed to serve as a personal library catalog
+<br>[Personal Library Catalogue (2020)](https://github.com/ErikZeiner/Personal-Library-Catalogue-2020) - A web-based app with a MySQL relational database, designed to serve as a personal library catalogue
 
 **Python**<br>
 [Highlighted (2021)](https://github.com/ErikZeiner/Highlighted-2021) - An app which automatically turns PDF highlights into Anki cards
